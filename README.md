@@ -14,4 +14,4 @@
 
 #### Loan amount is $1000, i.e., present value of the amount.
 #### If a periodic installment of $500 is payed upto 3 periods, it implies that the periodic rate of interest is 23.375% approximately
-#### $ 500/(1+0.23375) + 500/(1+0.23375)^{2} + 500/(1+0.23375)^{3} $
+#### $\frac{500}{(1+0.23375)}$ + $\frac{500}{(1+0.23375)^{2}}$ + $\frac{500}{(1+0.23375)^{3}}$
