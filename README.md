@@ -9,6 +9,7 @@
 
 ### This is no great thing but just a function 'annurate' from Financial Tool Box made into GUI 
 <img src=https://github.com/Vaishnavi1100/Rate-of-Interest-MATLAB/blob/main/App%20with%20some%20calculation.png>
+
 ### Explanation:
 
 #### Loan amount is $1000, i.e., present value of the amount.
